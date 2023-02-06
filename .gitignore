@@ -1,0 +1,5 @@
+*.DS_Store
+*.jld2
+*.pdf
+
+src/5_LinearizationFunctions/generated_fcns/*_generated.jl
